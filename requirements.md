@@ -1,3 +1,4 @@
+```txt
 apache-airflow==2.10.2
 pandas==1.5.3
 sqlalchemy==2.0.0
