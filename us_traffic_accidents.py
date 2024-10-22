@@ -82,3 +82,7 @@ with DAG('etl_us_accidents', default_args=default_args, schedule_interval='@dail
 
     # Define task dependencies (if needed)
     task_clean_accidents >> task_clean_persons >> task_clean_vehicles
+
+
+       
+  
